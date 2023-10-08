@@ -1,0 +1,19 @@
+ul{
+    background: plum;
+    margin: 12px 12 px 12px 12px;
+    padding: 3px 3px 3px 3px;
+    border-style: dashed;
+    border-width: thin;
+}
+li{
+    color: bisque;
+    background: darkred;
+    margin: 12px 12 px 12px 12px;
+    padding: 3px 3px 3px 3px;
+    list-style: none;
+}
+li .whiteboard{
+    border-style: dashed;
+    border-width: medium;
+    border: black;
+}

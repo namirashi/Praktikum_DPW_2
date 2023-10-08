@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(189, 216, 241);
+    font-family: sans-serif;
+    font-size: 20px;        
+    font-weight: 500;
+    font-style: italic;
+}
+h4{
+    color:darkslategrey;
+    font-size: 2.5em;
+    font-weight: 700;
+    text-align: left;
+}
+.header{
+    font-size: 50px;
+}
+p.paragraph{
+    font-size: 20px;
+    color: red;
+}
+p strong{
+    color: green;
+}
+p strong.bold{
+    color: orangered;
+}
+.uppercase{
+    text-shadow: 2px 2px 5px black;
+    color:brown;
+    text-transform: uppercase;
+
+}
+.lowercase{
+    color:brown;
+    text-transform: lowercase;
+}
+ul h5{
+    color:cornflowerblue;
+    font-size: 20px;
+    list-style-type: disc;
+}
+ul li{
+    color: coral;
+    font-size: 20px;
+    list-style-position: inside;
+}
